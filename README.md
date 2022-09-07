@@ -2,7 +2,7 @@
 A collection of 305 core cp questions from code forces, essential for cracking online coding rounds.
 
 ### Table Of Contents
-<table style="text-align: center">
+<table style="text-align:center;">
   <tr>
     <th>Sl. No.</th>
     <th>Codeforces Problem Name/Link</th>
@@ -13,7 +13,7 @@ A collection of 305 core cp questions from code forces, essential for cracking o
   <tr>
     <td>1</td>
     <td><a href="https://codeforces.com/problemset/problem/1337/A">BIT++</a></td>
-    <td style="text-color: green">Easy</td>
-    <td><a href="Implementation%20&%20Constructive/bitplusplus.py">Go :poit_right:</a></td>
+    <td style="color:green;">Easy</td>
+    <td><a href="Implementation%20&%20Constructive/bitplusplus.py">Go :point_right:</a></td>
   </tr>
 </table>
