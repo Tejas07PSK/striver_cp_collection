@@ -10,10 +10,10 @@ A collection of 305 core cp questions from code forces, essential for cracking o
     <th>Solution Link</th>
   </tr>
   <tr><th colspan="4">Implementation / Constructive</th></tr>
-  <tr style="text-align:center;">
+  <tr align="center">
     <td>1</td>
     <td><a href="https://codeforces.com/problemset/problem/1337/A">BIT++</a></td>
-    <td><span style="color:green;">Easy</span></td>
+    <td>Easy</td>
     <td><a href="Implementation%20&%20Constructive/bitplusplus.py">:point_right:</a></td>
   </tr>
 </table>
