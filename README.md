@@ -16,4 +16,10 @@ A collection of 305 core cp questions from code forces, essential for cracking o
     <td>:green_apple:</td>
     <td><a href="Implementation%20&%20Constructive/bitplusplus.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>1</td>
+    <td><a href="https://codeforces.com/contest/514/problem/A">Chewbaсca and Number</a></td>
+    <td>:lemon:</td>
+    <td><a href="Implementation%20&%20Constructive/bitplusplus.py">:point_right:</a></td>
+  </tr>
 </table>
