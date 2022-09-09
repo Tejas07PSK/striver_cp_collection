@@ -1,11 +1,11 @@
 # striver_cp_collection
-A collection of 305 core cp questions from code forces, essential for cracking online coding rounds.
+A collection of 305 core cp questions, essential for cracking online coding rounds.
 
 ### Table Of Contents
 <table>
   <tr>
     <th>Sl. No.</th>
-    <th>Codeforces Problem Name/Link</th>
+    <th>Problem Name/Link</th>
     <th>Difficulty</th>
     <th>Solution Link</th>
   </tr>
@@ -21,5 +21,11 @@ A collection of 305 core cp questions from code forces, essential for cracking o
     <td><a href="https://codeforces.com/contest/514/problem/A">Chewbaсca and Number</a></td>
     <td>:lemon:</td>
     <td><a href="Implementation%20&%20Constructive/chewandnum.py">:point_right:</a></td>
+  </tr>
+  <tr align="center">
+    <td>3</td>
+    <td><a href="https://codeforces.com/problemset/problem/263/A">Beautiful Matrix</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Implementation%20&%20Constructive/beaumat.py">:point_right:</a></td>
   </tr>
 </table>
