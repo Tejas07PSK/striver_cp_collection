@@ -28,4 +28,10 @@ A collection of 305 core cp questions, essential for cracking online coding roun
     <td>:green_apple:</td>
     <td><a href="Implementation%20&%20Constructive/beaumat.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>4</td>
+    <td><a href="https://codeforces.com/problemset/problem/151/A">Soft Drinking</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Implementation%20&%20Constructive/softdrinking.py">:point_right:</a></td>
+  </tr>
 </table>
